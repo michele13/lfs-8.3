@@ -43,3 +43,5 @@ cat << EOF | passwd lfs
 lfs
 lfs
 EOF
+chown -v lfs $LFS/toos
+chown -v lfs $LFS/sources
