@@ -1,0 +1,5 @@
+# LFS partition device
+LFS_DEV=/dev/sda3
+
+# LFS mount point
+LFS=/mnt/lfs
