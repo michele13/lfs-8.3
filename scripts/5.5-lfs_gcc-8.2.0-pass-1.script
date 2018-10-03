@@ -1,5 +1,6 @@
 
 echo "# 5.5 gcc-8.2.0 - Pass 1"
+cd $LFS/sources
 tar xf gcc-8.2.0.tar.xz
 cd gcc-8.2.0
 
